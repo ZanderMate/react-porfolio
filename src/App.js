@@ -8,6 +8,7 @@ import AboutSection from './components/AboutSection';
 import ContactSection from './components/ContactSection';
 import ProjectSection from './components/ProjectSection';
 import ProjectTitle from './components/ProjectTitle';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -64,6 +65,7 @@ function App() {
         </ProjectSection>
         <AboutSection />
         <ContactSection />
+        <Footer />
       </PageContent>
     </div >
   );
