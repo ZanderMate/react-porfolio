@@ -25,7 +25,7 @@ const AboutSection = () => {
                 <p><b>phone: </b>(612) 875-2026</p>
                 <p><b>GitHub Profile Link: </b><a href="https://github.com/ZanderMate">github.com/ZanderMate</a></p>
                 <p><b>LinkedIn Profile Link: </b><a href="https://www.linkedin.com/in/alexander-griep/">linkedin.com/in/alexander-griep</a></p>
-                <p><b>My Résumé: </b><a href="">Read It Here</a></p>
+                <p><b>My Résumé: </b><a href="./assets/pdf/alex-griep-resume.pdf">Read It Here</a></p>
 
             </div>
         </div>
