@@ -8,7 +8,7 @@ const AboutSection = () => {
             <h4><b>About Me</b></h4>
             <img src="./assets/images/headshot-pic.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650" />
             <div class="w3-content w3-justify" style={{ maxWidth: 600 }}>
-                <h4>Alexander Griep</h4>
+                <h4><b>Alexander Griep</b></h4>
                 <p>
                     My name is Alexander Griep but you can call me Alex. I am a nerd and proud of it. I believe that we all should be who we are and like what we like. And if you don't like what I like and I don't like what you like, there should also be no problems between us.
                 </p>
