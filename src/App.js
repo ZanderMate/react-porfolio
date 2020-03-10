@@ -32,6 +32,12 @@ function App() {
                 secondHref="https://protected-spire-30180.herokuapp.com/"
                 imgSrc="./assets/images/pikachoose.png"
               />
+              <Card
+                name="Google Book Search"
+                firstHref="https://github.com/ZanderMate/book-search"
+                secondHref="https://book-search-homework.herokuapp.com/"
+                imgSrc="./assets/images/book-search.png"
+              />
             </Col>
             <Col>
               <Card
@@ -45,6 +51,12 @@ function App() {
                 firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/weather_dashboard"
                 secondHref="https://zandermate.github.io/weather_dashboard/"
                 imgSrc="./assets/images/weather-app.png"
+              />
+              <Card
+                name="Tigris Shopping"
+                firstHref="https://github.com/ZanderMate/final-project"
+                secondHref="https://griep-final-project.herokuapp.com/"
+                imgSrc=""
               />
             </Col>
             <Col>
