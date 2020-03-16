@@ -53,10 +53,10 @@ function App() {
                 imgSrc="./assets/images/weather-app.png"
               />
               <Card
-                name="Tigris Shopping"
+                name="Tigris Shopping Platform"
                 firstHref="https://github.com/ZanderMate/final-project"
                 secondHref="https://griep-final-project.herokuapp.com/"
-                imgSrc=""
+                imgSrc="./assets/images/tigris.png"
               />
             </Col>
             <Col>
