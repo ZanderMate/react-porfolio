@@ -27,10 +27,31 @@ function App() {
                 imgSrc="./assets/images/the-peace-project.png"
               />
               <Card
-                name="Pikachoose Pokedex"
-                firstHref="https://github.com/ZanderMate/teamikea"
-                secondHref="https://protected-spire-30180.herokuapp.com/"
-                imgSrc="./assets/images/pikachoose.png"
+                name="Random Password Generator"
+                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/random_password_generator"
+                secondHref="https://zandermate.github.io/random_password_generator/"
+                imgSrc="./assets/images/PWGenerator.png"
+              />
+              <Card
+                name="Code Quizzes"
+                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/code_quizzes"
+                secondHref="https://zandermate.github.io/code_quizzes/"
+                imgSrc="./assets/images/code-quizzes.png"
+              />
+            </Col>
+            <Col>
+              <Card
+                name="Tigris Shopping Platform"
+                firstHref="https://github.com/ZanderMate/final-project"
+                secondHref="https://griep-final-project.herokuapp.com/"
+                imgSrc="./assets/images/tigris.png"
+              />
+
+              <Card
+                name="Weather Dashboard"
+                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/weather_dashboard"
+                secondHref="https://zandermate.github.io/weather_dashboard/"
+                imgSrc="./assets/images/weather-app.png"
               />
               <Card
                 name="Google Book Search"
@@ -41,30 +62,10 @@ function App() {
             </Col>
             <Col>
               <Card
-                name="Random Password Generator"
-                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/random_password_generator"
-                secondHref="https://zandermate.github.io/random_password_generator/"
-                imgSrc="./assets/images/PWGenerator.png"
-              />
-              <Card
-                name="Weather Dashboard"
-                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/weather_dashboard"
-                secondHref="https://zandermate.github.io/weather_dashboard/"
-                imgSrc="./assets/images/weather-app.png"
-              />
-              <Card
-                name="Tigris Shopping Platform"
-                firstHref="https://github.com/ZanderMate/final-project"
-                secondHref="https://griep-final-project.herokuapp.com/"
-                imgSrc="./assets/images/tigris.png"
-              />
-            </Col>
-            <Col>
-              <Card
-                name="Code Quizzes"
-                firstHref="https://github.com/ZanderMate/zandermate.github.io/tree/master/code_quizzes"
-                secondHref="https://zandermate.github.io/code_quizzes/"
-                imgSrc="./assets/images/code-quizzes.png"
+                name="Pikachoose Pokedex"
+                firstHref="https://github.com/ZanderMate/teamikea"
+                secondHref="https://protected-spire-30180.herokuapp.com/"
+                imgSrc="./assets/images/pikachoose.png"
               />
               <Card
                 name="Employee Directory"
