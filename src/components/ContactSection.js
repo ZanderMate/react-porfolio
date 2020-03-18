@@ -6,7 +6,7 @@ const ContactSection = () => {
         // Contact section
         <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="contact">
             <div class="w3-content" style={{maxWidth:600}}>
-                <h4 class="w3-center"><b>Contact Me</b></h4>
+                <h4 class="w3-center"><b>CONTACT ME</b></h4>
                 <p>Do you need some coding done? Send me a message!</p>
                 <form action="/action_page.php" target="_blank">
                     <div class="w3-section">
