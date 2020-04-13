@@ -34,6 +34,8 @@ const AboutSection = () => {
                     <li>Bootstrap</li>
                     <li>ES6</li>
                 </ul>
+                <h3><b>Certifications:</b></h3>
+                <iframe frameborder="0" scrolling="no" title="mern-fullstack" src="https://umn.credly.com/embed.html#/?member_badge_id=23309937" width="180" height="230"/>
                 <p><b>email: </b>alexgriep@gmail.com</p>
                 <p><b>phone: </b>(612) 875-2026</p>
                 <p><b>GitHub Profile: </b><a href="https://github.com/ZanderMate" target="_blank">github.com/ZanderMate</a></p>

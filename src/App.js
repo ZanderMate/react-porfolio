@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/navbar';
+import Sidebar from './components/navbar';
 import PageContent from './components/PageContent';
 import AboutSection from './components/AboutSection';
 import ContactSection from './components/ContactSection';
@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-      < Navbar />
+      < Sidebar />
       <PageContent>
         <ProjectSection />
         <AboutSection />

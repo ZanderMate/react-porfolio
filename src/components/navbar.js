@@ -3,7 +3,7 @@ import './style.css'
 
 
 
-const Navbar = () => {
+const Sidebar = () => {
     return (
         <div>
               {/* Sidebar/menu */}
@@ -23,4 +23,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar;
+export default Sidebar;

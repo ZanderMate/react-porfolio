@@ -3,11 +3,12 @@ import Modal from './Modal';
 import './style.css';
 
 const Card = (props) => {
+    console.log(props)
     return (
-        <div key={props.id} className="card text-center" style={{ border: "solid darkgray", color: "black" }}>
-            <img className="card-img-top" src={props.imgSrc} alt={props.name} />
-            <div className="card-body" style={{ backgroundColor: "lightgrey" }}>
-                <h5 className="card-title">{props.name}</h5>
+        <div key={props.id}>
+            <img src={props.imgSrc} alt={props.name} style={{width: 400}} />
+            <div>
+                <h5>{props.name}</h5>
                 <a href={props.firstHref}>repository</a>
                 <br />
                 <a href={props.secondHref}>application</a>

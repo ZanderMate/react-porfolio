@@ -14,7 +14,7 @@
         "firstHref": "https://github.com/ZanderMate/final-project",
         "secondHref": "https://griep-final-project.herokuapp.com/",
         "imgSrc": "./assets/images/tigris.png",
-        "description": "Shopping platform using MERN Full Stack",
+        "description": "Shopping platform using MERN Full Stack involving log-in information and personalized items to sell.",
         "tech": "BCryptjs, Mongo, Express.js, React.js, Node.js, jsonwebtoken, Scryfall-client npm, GameBoardAtlas API, MTG-Card-Viewer npm",
         "guestAccount": "username: email@email.com and pw: test"
     },
