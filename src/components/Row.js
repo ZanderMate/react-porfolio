@@ -3,7 +3,7 @@ import './style.css';
 
 const Row = ({ children }) => {
     return (
-        <div class="w3-row">
+        <div className="w3-row">
             {children}
         </div>
     )

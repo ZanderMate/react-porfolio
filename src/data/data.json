@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "The Peace Project",
+        "firstHref": "https://github.com/ZanderMate/Project_01",
+        "secondHref": "https://peace-project.netlify.com/",
+        "imgSrc": "./assets/images/the-peace-project.png",
+        "description": "An addiction app that uses distractions and data trends to aid recovery.",
+        "tech": "CSS, JQuery, JavaScript, AJAX"
+    },
+    {
+        "id": 2,
+        "name": "Tigris Shopping",
+        "firstHref": "https://github.com/ZanderMate/final-project",
+        "secondHref": "https://griep-final-project.herokuapp.com/",
+        "imgSrc": "./assets/images/tigris.png",
+        "description": "Shopping platform using MERN Full Stack",
+        "tech": "BCryptjs, Mongo, Express.js, React.js, Node.js, jsonwebtoken, Scryfall-client npm, GameBoardAtlas API, MTG-Card-Viewer npm",
+        "guestAccount": "username: email@email.com and pw: test"
+    },
+    {
+        "id": 3,
+        "name": "Pikachoose Pokédex",
+        "firstHref": "https://github.com/ZanderMate/teamikea",
+        "secondHref": "https://protected-spire-30180.herokuapp.com/",
+        "imgSrc": "./assets/images/pikachoose.png",
+        "description": "A Pokémon team-building app with MySQL",
+        "tech": "MySQL, Handlebars.js, Express.js, CSS Animate, Bootstrap, NPM Packages"
+    },
+    {
+        "id": 4,
+        "name": "PW Generator",
+        "firstHref": "",
+        "secondHref": "",
+        "imgSrc": "./assets/images/PWGenerator.png",
+        "description": "A JavaScript random password generator that can create a 8-128 character password and copy it for use",
+        "tech": "Javascript, CSS, HTML"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "firstHref": "https://github.com/ZanderMate/zandermate.github.io/tree/master/weather_dashboard/",
+        "secondHref": "https://zandermate.github.io/weather_dashboard/",
+        "imgSrc": "./assets/images/weather-app.png",
+        "description": "A weather application that uses a Restful API from Open Weather",
+        "tech": "Open Weather API, JavaScript, HTML, CSS"
+    },
+    {
+        "id": 6,
+        "name": "Google Book Search",
+        "firstHref": "https://github.com/ZanderMate/book-search",
+        "secondHref": "https://book-search-homework.herokuapp.com/",
+        "imgSrc": "./assets/images/book-search.png",
+        "description": "A MERN full-stack assignment that connects to Google Books to find and save books with a search feature",
+        "tech": "React.js, Javascript, Express.js, CSS, Node.js, Google Books API"
+    },
+    {
+        "id": 7,
+        "name": "Code Quizzes",
+        "firstHref": "https://github.com/ZanderMate/zandermate.github.io/tree/master/code_quizzes",
+        "secondHref": "https://zandermate.github.io/code_quizzes/",
+        "imgSrc": "./assets/images/code-quizzes.png",
+        "description": "A set of quizzes that focus on using Javascript and localStorage to maintain a high score.",
+        "tech": "HTML, CSS, JavaScript"
+    },
+    {
+        "id": 8,
+        "name": "Employee Directory",
+        "firstHref": "https://github.com/ZanderMate/employee-directory",
+        "secondHref": "https://employee-directory-bootcamp.netlify.com/",
+        "imgSrc": "./assets/images/employee-directory.png",
+        "description": "An employee directory that focuses on React.js.",
+        "tech": "React.js, CSS, HTML, JavaScript"
+    }
+]

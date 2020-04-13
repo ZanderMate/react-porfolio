@@ -4,10 +4,10 @@ import './style.css';
 const AboutSection = () => {
     return (
         // About Section
-        <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
+        <div className="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
             <h4><b>ABOUT ME</b></h4>
-            <img src="./assets/images/headshot-pic.jpg" alt="Alex Griep" class="w3-image w3-padding-32" style={{ maxWidth: 600, maxHeight: 400 }} />
-            <div class="w3-content w3-justify" style={{ maxWidth: 600 }}>
+            <img src="./assets/images/headshot-pic.jpg" alt="Alex Griep" className="w3-image w3-padding-32" style={{ maxWidth: 600, maxHeight: 400 }} />
+            <div className="w3-content w3-justify" style={{ maxWidth: 600 }}>
                 <h4><b>Alexander Griep</b></h4>
                 <p>
                     My name is Alexander Griep but you can call me Alex. I am a nerd and proud of it. I believe that we all should be who we are and like what we like. And if you don't like what I like and I don't like what you like, there should also be no problems between us.
@@ -39,7 +39,6 @@ const AboutSection = () => {
                 <p><b>GitHub Profile: </b><a href="https://github.com/ZanderMate" target="_blank">github.com/ZanderMate</a></p>
                 <p><b>LinkedIn Profile: </b><a href="https://www.linkedin.com/in/alexander-griep/" target="_blank">linkedin.com/in/alexander-griep</a></p>
                 <p><b>My Résumé: </b><a href="./assets/pdf/alex-griep-resume.pdf" target="_blank">Read It Here</a></p>
-
             </div>
         </div>
     )
